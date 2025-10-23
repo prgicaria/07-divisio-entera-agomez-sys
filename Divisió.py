@@ -1,10 +1,12 @@
 dividend = 45
-divisor = 11
+divisor = 4
 Quocient = 11
 Residu = 1
 
-print (resultat := dividend // divisor)
-print (quocient := 11)
+print(f"{dividend} / {divisor}")
+
+print (quocient := dividend // divisor)
+
 print (Residu:= {Residu})
 
 
